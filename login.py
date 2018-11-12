@@ -3,6 +3,10 @@ def login():
 
 a = 18
 
-num1 = 10
+
+num1 = 30
+
+num2 = 10
+
 
 num2 = 20
